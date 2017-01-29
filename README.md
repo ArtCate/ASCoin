@@ -1,0 +1,2 @@
+# ASCoin
+Crypto currency
